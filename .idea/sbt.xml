@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="vmParameters" value="-XX:MaxPermSize=384M -Xmx512M -Dhttp.proxyHost=proxy.le-figaro.com -Dhttp.proxyPort=8080 -Dhttp.nonProxyHosts=&quot;nestor.io.le-figaro.com|localhost|127.0.0.1||*.adencf.local&quot; -Dhttps.proxyHost=proxy.le-figaro.com -Dhttps.proxyPort=8080" />
+  </component>
+</project>
