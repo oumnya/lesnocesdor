@@ -5,7 +5,7 @@
 
 .item{
 
-width: 100%;
+	width: 100%;
 }
 .carousel img{
 	width: inherit;
@@ -52,12 +52,12 @@ nav img{
 }
 .header h3{
 	position: absolute;
-    top: 109px;
-    left: 31%;
-    color: #fff;
-    font-family: HerrVonMuellerhoff;
-    font-size: 51px;
-    font-weight: 500;
+	top: 109px;
+	left: 31%;
+	color: #fff;
+	font-family: HerrVonMuellerhoff;
+	font-size: 51px;
+	font-weight: 500;
 }
 
 /************ Head GAllerie ****************************/
@@ -65,9 +65,9 @@ nav img{
 .head{
 	background: url('../images/caroussel1.png')no-repeat center center fixed;
 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 
 }
 .head > nav{
@@ -80,11 +80,11 @@ nav img{
 }
 
 nav{
-    width: 100%;
-    height: 70px;
-    line-height: 65px;
-    position: absolute;
-    top: 0px;
+	width: 100%;
+	height: 70px;
+	line-height: 65px;
+	position: absolute;
+	top: 0px;
 }
 nav img{
 	width: 250px;
@@ -127,12 +127,12 @@ nav img{
 
 /************ INFO ***********************************/
 @font-face {
-    font-family: HerrVonMuellerhoff;
-    src: url(../fonts/HerrVonMuellerhoff-Regular.otf);
+	font-family: HerrVonMuellerhoff;
+	src: url(../fonts/HerrVonMuellerhoff-Regular.otf);
 }
 .info{
-	height: 360px; 
-	border-top:3px solid #C59D5F; 
+	height: 360px;
+	border-top:3px solid #C59D5F;
 	transform: skewY(-.5deg);
 	margin-top: -5px;
 	background: #fff;
@@ -148,47 +148,47 @@ nav img{
 	margin-bottom: 20px;
 }
 .info:before {
-    content: "";
-    background-color: #C59D5F;
-    display: block;
-    width: 100%;
-    height: 3px;
-    position: absolute;
-    left: 0;
-    bottom: -2px;
+	content: "";
+	background-color: #C59D5F;
+	display: block;
+	width: 100%;
+	height: 3px;
+	position: absolute;
+	left: 0;
+	bottom: -2px;
 }
 
 /*********** Services ***************************/
 
 .service-img{
 	background-image: url('../images/Services.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 352px;
-    margin-top: -15px;
-    padding-top: 50px;
-    
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 352px;
+	margin-top: -15px;
+	padding-top: 50px;
+
 }
 .service-img h2{
 	padding-top: 50px;
 	font-size: 58px;
-    text-align: center;
-    color: #C59D5F;
-    font-family: HerrVonMuellerhoff;
-    font-weight: 600;
+	text-align: center;
+	color: #C59D5F;
+	font-family: HerrVonMuellerhoff;
+	font-weight: 600;
 }
 
 .service-img h2 p{
 
-    font-family: arial;
-    color: #252525;
-    font-size: 35px;
-    font-weight: normal;
+	font-family: arial;
+	color: #252525;
+	font-size: 35px;
+	font-weight: normal;
 
 }
 .service-menu{
-	
+
 	transform: skewY(-.5deg);
 	margin-top: -5px;
 	padding-top: 40px;
@@ -210,14 +210,14 @@ nav img{
 	width: 180px;
 }
 .service-menu:before {
-    content: "";
-    background-color: #C59D5F;
-    display: block;
-    width: 100%;
-    height: 3px;
-    position: absolute;
-    left: 0;
-    top: -2px;
+	content: "";
+	background-color: #C59D5F;
+	display: block;
+	width: 100%;
+	height: 3px;
+	position: absolute;
+	left: 0;
+	top: -2px;
 }
 
 
@@ -256,24 +256,24 @@ footer a{
 }
 footer h2{
 	font-family: HerrVonMuellerhoff;
-    float: right;
-    margin-top: 22px;
-    color: #f4f4f4;
-    font-size: 19px;
+	float: right;
+	margin-top: 22px;
+	color: #f4f4f4;
+	font-size: 19px;
 
 }
 .toTop{
 	position: relative;
-    font-size: 14px;
-    text-align: center;
-    color: #C59D5F;
+	font-size: 14px;
+	text-align: center;
+	color: #C59D5F;
 }
 .toTop svg{
 	position: absolute;
-    top: -29px;
-    left: 50%;
-    margin-left: -96px;
-    margin-top: -50px;
+	top: -29px;
+	left: 50%;
+	margin-left: -96px;
+	margin-top: -50px;
 }
 
 svg path{
@@ -295,18 +295,18 @@ svg path{
 .catalogue h2{
 	padding-top: 80px;
 	font-size: 58px;
-    text-align: center;
-    color: #C59D5F;
-    font-family: HerrVonMuellerhoff;
-    font-weight: 600;
+	text-align: center;
+	color: #C59D5F;
+	font-family: HerrVonMuellerhoff;
+	font-weight: 600;
 }
 
 .catalogue h2 p{
 
-    font-family: arial;
-    color: #252525;
-    font-size: 35px;
-    font-weight: normal;
+	font-family: arial;
+	color: #252525;
+	font-size: 35px;
+	font-weight: normal;
 
 }
 
@@ -315,15 +315,15 @@ svg path{
 	margin-bottom: 60px;
 }
 .model img{
-    max-width: 100%;
-    height: auto;
-    padding: 1px;
-    border: 1px solid #ddd;
-    -webkit-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
-     max-width: 318px;
-     max-height: 210px
+	max-width: 100%;
+	height: auto;
+	padding: 1px;
+	border: 1px solid #ddd;
+	-webkit-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	max-width: 318px;
+	max-height: 210px
 }
 .model{
 	text-align: center;
@@ -331,4 +331,178 @@ svg path{
 }
 
 
+/*pop up starts here */
+.button-wrap{
+	display: none;
+}
+button {
+	padding: 1em 2em;
+	outline: none;
+	font-weight: 600;
+	border: none;
+	color: #fff;
+	background: #ba945b;;
+}
+
+.dialog,
+.dialog__overlay {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.dialog {
+	position: fixed;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	pointer-events: none;
+}
+
+.dialog__overlay {
+	position: absolute;
+	z-index: 1;
+	background: rgba(55, 58, 71, 0.9);
+	opacity: 0;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+	-webkit-backface-visibility: hidden;
+}
+
+.dialog--open .dialog__overlay {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.dialog__content {
+	width: 50%;
+	max-width: 560px;
+	min-width: 290px;
+	background: #fff;
+	padding: 4em;
+	text-align: center;
+	position: relative;
+	z-index: 5;
+	opacity: 0;
+}
+
+.dialog--open .dialog__content {
+	pointer-events: auto;
+}
+
+/* Content */
+.dialog h2 {
+	margin: 0;
+	font-weight: 400;
+	font-size: 2em;
+	padding: 0 0 2em;
+	margin: 0;
+}
+
+
+
+.dialog--open .dialog__overlay {
+	-webkit-transition-duration: 0.8s;
+	transition-duration: 0.8s;
+}
+
+.dialog--close .dialog__overlay {
+	-webkit-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+}
+
+.dialog__content {
+	padding: 0;
+	background: transparent;
+}
+
+.dialog.dialog--open .dialog__content {
+	opacity: 1;
+}
+
+.morph-shape {
+	position: absolute;
+	width: calc(100% + 4px);
+	height: calc(100% + 4px);
+	top: -2px;
+	left: -2px;
+	z-index: -1;
+}
+
+.morph-shape svg rect {
+	stroke: #fff;
+	stroke-width: 2px;
+	stroke-dasharray: 1680;
+}
+
+.dialog--open .morph-shape svg rect {
+	-webkit-animation: anim-dash 0.6s forwards;
+	animation: anim-dash 0.6s forwards;
+}
+
+.dialog-inner {
+	opacity: 0;
+	background: #fff;
+}
+
+.dialog--open .dialog-inner {
+	padding: 4em;
+	opacity: 1;
+	-webkit-transition: opacity 0.85s 0.35s;
+	transition: opacity 0.85s 0.35s;
+}
+
+.dialog.dialog--open h2 {
+	-webkit-animation: anim-elem-1 0.7s ease-out both;
+	animation: anim-elem-1 0.7s ease-out both;
+}
+
+.dialog.dialog--open button {
+	-webkit-animation: anim-elem-2 0.7s ease-out both;
+	animation: anim-elem-2 0.7s ease-out both;
+}
+
+@keyframes anim-dash {
+	0% {
+		stroke-dashoffset: 1680;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
+
+@-webkit-keyframes anim-dash {
+	0% {
+		stroke-dashoffset: 1680;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
+
+/* Inner elements animations */
+
+@-webkit-keyframes anim-elem-1 {
+	0% { opacity: 0; -webkit-transform: translate3d(-150px, 0, 0); }
+	100% { opacity: 1; -webkit-transform: translate3d(0, 0, 0); }
+}
+
+@keyframes anim-elem-1 {
+	0% { opacity: 0; -webkit-transform: translate3d(-150px, 0, 0); transform: translate3d(-150px, 0, 0); }
+	100% { opacity: 1; -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }
+}
+
+@-webkit-keyframes anim-elem-2 {
+	0% { opacity: 0; -webkit-transform: translate3d(150px, 0, 0); }
+	100% { opacity: 1; -webkit-transform: translate3d(0, 0, 0); }
+}
+
+@keyframes anim-elem-2 {
+	0% { opacity: 0; -webkit-transform: translate3d(150px, 0, 0); transform: translate3d(150px, 0, 0); }
+	100% { opacity: 1; -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }
+}
 
