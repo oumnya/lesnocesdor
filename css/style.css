@@ -146,6 +146,8 @@ nav img{
 }
 .info h1{
 	margin-bottom: 20px;
+	    font-size: 30px;
+    margin-top: 27px;
 }
 .info:before {
 	content: "";
